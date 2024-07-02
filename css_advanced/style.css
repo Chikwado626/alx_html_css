@@ -1,0 +1,33 @@
+header {
+    text-align: right;
+    
+}
+
+.navlink {
+    list-style: none;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(./assets/Object.png);
+    background-repeat: no-repeat;
+}
+main {
+    text-align: center;
+    #font-weight: 200cm;
+}
+
+footer {
+    color: white;
+    background-color: rgb(11, 11, 49);
+    div {
+        text-align: right;
+    
+    }
+    
+}
