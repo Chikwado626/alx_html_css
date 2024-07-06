@@ -8,6 +8,7 @@ body {
 }
 main {
 flex-direction:row;
+div:grid;
 }
  
 article {

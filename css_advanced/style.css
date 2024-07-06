@@ -1,15 +1,30 @@
-header {
-    text-align: right;
+* {
+    box-sizing: border-box;
+    margin: 0%;
     
 }
+header {
+    display: flex;
+    align-items: right;
+    justify-content:space-between;
+    padding-top: 30px;
+}
+    header div{
+        width: 600px;
+        
+    }
 
 .navlink {
     list-style: none;
 }
-
+header ul{
+    align-items: center;
+    display: flex;
+    padding-left: 30px;
+    
+}
 
 a {
-    color: white;
     text-decoration: none;
 }
 
@@ -17,17 +32,29 @@ body {
     background-image: url(./assets/Object.png);
     background-repeat: no-repeat;
 }
-main {
-    text-align: center;
-    #font-weight: 200cm;
+
+.grid{
+
+    display: grid;
+    
 }
 
 footer {
     color: white;
     background-color: rgb(11, 11, 49);
-    div {
+
         text-align: right;
     
     }
     
-}
+    .trin{
+        font-size: 120px;
+        font-style: souliyo unicord;
+        color: white;
+    }
+    
+        color: blue;
+    .go{
+        font-style: italic;
+        background-color: blueviolet;
+    }
