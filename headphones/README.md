@@ -1,0 +1,1 @@
+this particular project is teaching me how to explore the use of css and html together to build a web page from scratch and 
