@@ -1,4 +1,3 @@
-
 /* ============================ start global styles =============================== */
 * {
     box-sizing: border-box;
@@ -481,7 +480,7 @@ footer p {
     }
 
     footer .footer_content {
-        flex-direction: rows;
+        flex-direction: column;
         gap: 45px;
     }
 }
